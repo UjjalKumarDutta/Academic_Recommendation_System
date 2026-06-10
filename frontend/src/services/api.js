@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API_URL =
-  "http://localhost:5000/api";
+  "https://academic-recommendation-system-bqdj.onrender.com/api";
 
 export const getRecommendation = async (
   formData
